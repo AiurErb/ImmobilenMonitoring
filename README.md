@@ -16,5 +16,5 @@ Ich habe vor, die Schritte zu unternehmen:
 1. Marktforschung, ähnliche Projekte zu suchen und vielleicht hachmachen
 2. Statistiken zu definieren
 3. Datenbank zu entwickeln
-4. Scrapingmethoden zu einsäthen und zu perfektionieren (Capcha herumzugehen usw.)
+4. Scrapingmethoden zu einsätzen und zu perfektionieren (Capcha herumzugehen usw.)
 5. Darstellung als eine Webseite zu erschaffen
